@@ -4,9 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start":"node src/app.js",
+    "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
-    
   },
   "author": "Wojciech Rogóż",
   "license": "ISC",
@@ -14,6 +13,7 @@
     "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.19",
